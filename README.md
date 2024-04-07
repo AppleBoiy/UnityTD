@@ -1,4 +1,4 @@
-# unity3d: Player Control (Bird Eye View)
+# unity3d: Basic Player Controller - Bird Eye View
 
 Control a player in a 3D environment using Unity3D.
 I used the `StarterAssets` package as a base for the project.
