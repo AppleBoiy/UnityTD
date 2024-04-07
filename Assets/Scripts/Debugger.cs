@@ -94,12 +94,12 @@ public class Debugger : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
 
         Debug.LogException(new Exception("This is a test exception message."));
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1f);
 
         for (int i = 0; i < 10; i++)
         {
             Debug.Log("This is log message #" + i);
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(0.2f);
         }
 
         Debug.Log("This is the final test log message.");
