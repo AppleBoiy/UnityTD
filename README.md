@@ -11,10 +11,12 @@ I used the `StarterAssets` package as a base for the project.
 
 <img src="Var/Images/Screenshot.png" alt="Screenshot">
 
-## Description
-
 - Fixed camera view (Bird Eye View)
 - Logging console messages for debugging ([Debugger.cs](https://gist.github.com/AppleBoiy/958a5b47891e2c789ab0e5e4e5c109c2))
+
+## Setup
+
+- [Unity Editor layout.wlt](https://gist.github.com/AppleBoiy/7eafbfe15eab1af248f9024288079236)
 
 ## Key bindings
 
